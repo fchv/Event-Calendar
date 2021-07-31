@@ -4,6 +4,8 @@ This project uses the React JS framework in an app that allows users to create a
 You can make a new event to keep track of by clicking the "Add Event" button or by clicking a date on the calendar, which will automatically fill the date section.
 The calendar is saved locally in the browser using LocalStorage.
 
+![Application screenshot](./Calendar-Screenshot.png)
+
 ## Installation
 
 - Clone the repository using ```git clone https://github.com/fchv/Event-Calendar```
